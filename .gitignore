@@ -1,0 +1,5 @@
+*.epub
+bookmarks/
+personal.ini
+debug_page.html
+.claude/
